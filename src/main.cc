@@ -3,5 +3,5 @@
 int main(void)
 {
    std::cout << "Hello Wolrd!" << std::endl;
-   return 0;
+   return -1;
 }
