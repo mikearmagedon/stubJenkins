@@ -1,0 +1,3 @@
+/home/mike/GitHub/runtime-EclipseXtext/HelloWorldCMake/CMakeFiles/rebuild_cache.dir
+/home/mike/GitHub/runtime-EclipseXtext/HelloWorldCMake/CMakeFiles/edit_cache.dir
+/home/mike/GitHub/runtime-EclipseXtext/HelloWorldCMake/CMakeFiles/App.dir
